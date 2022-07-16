@@ -73,4 +73,17 @@ li a:hover{
     
     font-family: "Fredoka one" ,cursive;
   }
+  .footer{
+    margin-left: 50px;
+  }
+  .im{
+    margin-left: 45px;
+  }
+  .footer:hover{
+   
+        text-decoration-line: underline;
+        /* color:brown; */
+        color:#F5F5F5;
+      
+  }
   
