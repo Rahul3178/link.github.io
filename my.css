@@ -2,14 +2,7 @@
     font-family: "Fredoka one" ,cursive;
     
 }
-.pic{
-    margin-left: 0%;
-    height: 250px;
-    width: 545px;
-    /* border-radius: 100%; */
-    outline: 1px solid black;
 
-}
 .picicon{
    
     height: 150px;
@@ -69,16 +62,7 @@ li a:hover{
     
 }
  
-  
- .name{
-    
-    color:white;
-    font-family: "Fredoka one" ,cursive;
-    position:absolute;
-    top: 70%;
-    left: 45%;
-    transform: translate(-50%,-50%);
-  }
+
   .head:hover{
     text-decoration-line: underline;
     /* color:brown; */
